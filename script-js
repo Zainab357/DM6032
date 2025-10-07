@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Welcome to DM6032</title>
+ </head>
+ <body>
+   <header>
+     <h1 id=h1>Welcome to DM6032</h1>
+     <p>Tutor info.
+<br>Tutor email: <br>Lulwa.AlMannaei@polytechnic.bh
+<br>Office hours
+<br>Sunday 2 to 4
+<br>Tuesday from 1 to 2 
+<br>sunday from 3 to 4 <hr>
+<br>Office location
+       <br> B20.104  </p>
+    </header>
+  </body>
+  
+  <nav>
+    <ul>
+      <li><a href="about"> about me</a>
+      <li><a href="My projects">My projects </a>
+      <li><a href="Contact me"> Contact me</a>
+    
+    </ul>
+  </nav> <hr>
+<table border="3" cellpadding="20"> 
+  <tr>
+    <th> Course details</th>
+    <th> Class hours </th>
+  </tr>
+  <tr>
+    <td> DM6032</td>
+    <td> 2 to 4 PM </td>
+     
+     
+ title="youtube video"
+  Frameborder="0" allowfullscreen>
+<iframe>
+  <footer>
+    <p> 2025. all rights reserved. </p>
+<section id="contact">
+   <h2>Contact Your Tutor </h2>
+   <form id="contactForm">
+     <label>Your Name<br>
+       <input type="text" id="name" required />
+     </label><br><br>
+ 
+     <label>Your Email<br>
+       <input type="email" id="email" required />
+     </label><br><br>
+ 
+     <label>Write your inquires<br>
+       <textarea id="message" rows="6" cols="150" required></textarea>
+     </label><br><br>
+ 
+     <button type="submit">Submit</button>
+   </form>
+ </section>
+    <footer> <script src="script.js"> </script>
+    </html>
